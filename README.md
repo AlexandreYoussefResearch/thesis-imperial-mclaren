@@ -22,4 +22,4 @@ In addition to these methods, the work explores the integration of **point set r
 ## Contact
 
 For any inquiries:  
-📧 **alexandre.youssef.pro@gmail.com**
+**alexandre.youssef.pro@gmail.com**
