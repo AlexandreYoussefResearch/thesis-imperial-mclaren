@@ -15,7 +15,7 @@ The thesis includes:
 
 ---
 
-## 📄 Report
+## Link
 
 [Download the thesis (PDF)](.Thesis_Alexandre_Youssef.pdf)
 
