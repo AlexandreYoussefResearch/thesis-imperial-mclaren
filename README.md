@@ -11,17 +11,17 @@ The thesis includes:
 - Use of stochastic car motion models to simulate realistic track behaviour
 - Mathematical tools applicable to numerical physics, simulation, and geometry handling
 
-> 🔒 This repository includes only the public version of the report. All implementation details remain confidential.
+> This repository includes only the public version of the report. All implementation details remain confidential.
 
 ---
 
 ## 📄 Report
 
-📥 [Download the thesis (PDF)](.Thesis_Alexandre_Youssef.pdf)
+[Download the thesis (PDF)](.Thesis_Alexandre_Youssef.pdf)
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any inquiries:  
 **alexandre.youssef.pro@gmail.com**
