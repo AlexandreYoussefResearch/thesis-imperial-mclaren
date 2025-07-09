@@ -5,7 +5,7 @@ This repository contains the public version of my MSc thesis (non-confidential v
 
 The project investigates the development and evaluation of **PDE-based mesh deformation methods** to support accurate simulation of **external aerodynamics** under large, random vehicle displacements. Classical techniques such as **Laplace**, **Linear Elasticity**, and **Biharmonic** equations are compared in terms of mesh quality preservation, numerical stability, and implementation robustness.
 
-In addition to these methods, the work explores the integration of **point set registration techniques**—commonly used in **computer vision** to align two sets of spatial points (e.g., shapes, objects, boundaries). These techniques aim to compute non-rigid transformations that best match one point set to another. In the context of mesh deformation, they provide an elegant way to infer smooth and realistic displacement fields when vehicle geometries undergo irregular or large motion.
+In addition to these methods, the work explores the integration of **point set registration techniques** - commonly used in **computer vision** to align two sets of spatial points (e.g., shapes, objects, boundaries). These techniques aim to compute non-rigid transformations that best match one point set to another. In the context of mesh deformation, they provide an elegant way to infer smooth and realistic displacement fields when vehicle geometries undergo irregular or large motion.
 
 ## Contents
 
