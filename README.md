@@ -1,7 +1,7 @@
 # Development of Mesh Deformation Methods for External Aerodynamics Simulations  
 **Imperial College London – MSc Thesis (in collaboration with McLaren Racing)**
 
-This repository contains the public version of my MSc thesis, conducted within the **CFD R&D team at McLaren Racing** as part of the Aeronautics programme at Imperial College London.
+This repository contains the public version of my MSc thesis (non-confidential version only), conducted within the **CFD R&D team at McLaren Racing** as part of the Aeronautics programme at Imperial College London.
 
 The project investigates the development and evaluation of **PDE-based mesh deformation methods** to support accurate simulation of **external aerodynamics** under large, random vehicle displacements. Classical techniques such as **Laplace**, **Linear Elasticity**, and **Biharmonic** equations are compared in terms of mesh quality preservation, numerical stability, and implementation robustness.
 
